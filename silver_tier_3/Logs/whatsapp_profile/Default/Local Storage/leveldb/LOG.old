@@ -1,0 +1,6 @@
+2026/04/21-14:45:33.316 1f24 Reusing MANIFEST D:\Hackthon_0\silver_tier_3\Logs\whatsapp_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/21-14:45:33.344 1f24 Recovering log #3
+2026/04/21-14:45:33.353 1f24 Reusing old log D:\Hackthon_0\silver_tier_3\Logs\whatsapp_profile\Default\Local Storage\leveldb/000003.log 
+2026/04/22-17:14:04.435 57a8 Level-0 table #5: started
+2026/04/22-17:14:04.447 57a8 Level-0 table #5: 20259 bytes OK
+2026/04/22-17:14:04.452 57a8 Delete type=0 #3

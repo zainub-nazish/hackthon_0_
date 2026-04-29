@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# TypeScript build output — keep dist/ for the MCP server
+# (comment out the line below if you want to exclude compiled JS)
+# silver_tier_22/mcp-email-server/dist/
+
+# Environment & secrets
+.env
+.env.local
+*.secret
+ai-secrets/
+credentials.json.json
+credentials.json
+token.json
+
+# Playwright browser data
+**/linkedin_session/
+**/whatsapp_session/
+**/playwright-report/
+**/test-results/
+
+# Obsidian
+.obsidian/workspace.json
+*.base
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs (keep log files for history, but ignore auto-generated cache)
+*.log.tmp
+Logs/gmail_seen_ids.txt
+
+# Python virtual env
+.python-version

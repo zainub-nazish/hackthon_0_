@@ -1,0 +1,29 @@
+2026/04/21-14:45:34.359 8e4 Reusing MANIFEST D:\Hackthon_0\silver_tier_3\Logs\whatsapp_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/21-14:45:34.360 8e4 Recovering log #80
+2026/04/21-14:45:34.487 8e4 Reusing old log D:\Hackthon_0\silver_tier_3\Logs\whatsapp_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000080.log 
+2026/04/21-14:45:44.063 46c4 Level-0 table #85: started
+2026/04/21-14:45:44.149 46c4 Level-0 table #85: 1011660 bytes OK
+2026/04/21-14:45:44.153 46c4 Delete type=0 #80
+2026/04/21-14:45:44.192 3990 Compacting 1@1 + 1@2 files
+2026/04/21-14:45:44.323 3990 Generated table #86@1: 22447 keys, 893403 bytes
+2026/04/21-14:45:44.324 3990 Compacted 1@1 + 1@2 files => 893403 bytes
+2026/04/21-14:45:44.325 3990 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/21-14:45:44.326 3990 Delete type=2 #82
+2026/04/21-14:45:44.326 3990 Delete type=2 #85
+2026/04/21-14:47:28.802 46c4 Level-0 table #88: started
+2026/04/21-14:47:28.870 46c4 Level-0 table #88: 1042188 bytes OK
+2026/04/21-14:47:28.872 46c4 Delete type=0 #84
+2026/04/21-14:47:29.561 38fc Compacting 1@1 + 1@2 files
+2026/04/21-14:47:29.695 38fc Generated table #89@1: 23402 keys, 980712 bytes
+2026/04/21-14:47:29.695 38fc Compacted 1@1 + 1@2 files => 980712 bytes
+2026/04/21-14:47:29.697 38fc compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/21-14:47:29.698 38fc Delete type=2 #86
+2026/04/21-14:47:29.698 38fc Delete type=2 #88
+2026/04/22-17:14:22.209 38fc Level-0 table #91: started
+2026/04/22-17:14:22.274 38fc Level-0 table #91: 1051532 bytes OK
+2026/04/22-17:14:22.276 38fc Delete type=0 #87
+2026/04/22-17:14:22.303 38fc Compacting 1@1 + 1@2 files
+2026/04/22-17:14:22.420 38fc Generated table #92@1: 24074 keys, 1007118 bytes
+2026/04/22-17:14:22.420 38fc Compacted 1@1 + 1@2 files => 1007118 bytes
+2026/04/22-17:14:22.421 38fc compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/22-17:14:22.423 38fc Delete type=2 #91
